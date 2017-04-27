@@ -1,0 +1,5 @@
+C:\Users\NSCCSTUDENT\Desktop\PROG2500\Assignments\BudgetTracker\Budget\bin\Debug\Budget.dll
+C:\Users\NSCCSTUDENT\Desktop\PROG2500\Assignments\BudgetTracker\Budget\bin\Debug\Budget.pdb
+C:\Users\NSCCSTUDENT\Desktop\PROG2500\Assignments\BudgetTracker\Budget\obj\Debug\Budget.dll
+C:\Users\NSCCSTUDENT\Desktop\PROG2500\Assignments\BudgetTracker\Budget\obj\Debug\Budget.pdb
+C:\Users\NSCCSTUDENT\Desktop\PROG2500\Assignments\BudgetTracker\Budget\obj\Debug\BudgetItems.csprojResolveAssemblyReference.cache

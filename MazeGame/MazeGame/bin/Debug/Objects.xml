@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Objects</name>
+    </assembly>
+    <members>
+        <member name="T:Objects.Maze">
+            <summary>
+            Class for creating a maze object
+            </summary>
+        </member>
+        <member name="F:Objects.Maze.displayArea">
+            <summary>
+            Maze's display area
+            </summary>
+        </member>
+        <member name="F:Objects.Maze.gameplayArea">
+            <summary>
+            Area to draw the Maze inside of
+            </summary>
+        </member>
+        <member name="F:Objects.Maze.horizontalWallHeight">
+            <summary>
+            height of horizontal wall
+            </summary>
+        </member>
+        <member name="F:Objects.Maze.horizontalWallWidth">
+            <summary>
+            width of horizontal wall
+            </summary>
+        </member>
+        <member name="F:Objects.Maze.Ycoords">
+            <summary>
+            array to hold maze Y coordinates
+            </summary>
+        </member>
+        <member name="F:Objects.Maze.Xcoords">
+            <summary>
+            array to holf maze X coordinates
+            </summary>
+        </member>
+        <member name="F:Objects.Maze.YfreeCoords">
+            <summary>
+            array to hold free space Y coorinates inside maze inside 
+            </summary>
+        </member>
+        <member name="F:Objects.Maze.XfreeCoords">
+            <summary>
+            array to hold free space X coorinates inside maze inside 
+            </summary>
+        </member>
+        <member name="M:Objects.Maze.#ctor(System.Drawing.Rectangle)">
+            <summary>
+            Initialize a Maze Object
+            </summary>
+            <param name="gameplayArea"></param>
+        </member>
+        <member name="M:Objects.Maze.Draw(System.Drawing.Graphics)">
+            <summary>
+            Draw the Maze
+            </summary>
+            <param name="graphics"></param>
+        </member>
+        <member name="P:Objects.Maze.XCoordsArray">
+            <summary>
+            Get cooridanes of X position for Maze
+            </summary>
+        </member>
+        <member name="P:Objects.Maze.YCoordsArray">
+            <summary>
+            Get cooridanes of Y position for Maze
+            </summary>
+        </member>
+        <member name="P:Objects.Maze.XCoordsFreeArray">
+            <summary>
+            Get Free space inside of maze X position
+            </summary>
+        </member>
+        <member name="P:Objects.Maze.YCoordsFreeArray">
+            <summary>
+            Get Free space inside of maze Y position
+            </summary>
+        </member>
+        <member name="P:Objects.Maze.Rectangle">
+            <summary>
+            Get the display area for Maze
+            </summary>
+        </member>
+        <member name="P:Objects.Maze.XPosition">
+            <summary>
+            get current xposition of Maze
+            </summary>
+        </member>
+        <member name="P:Objects.Maze.YPosition">
+            <summary>
+            get current Y position of maze
+            </summary>
+        </member>
+        <member name="T:Objects.Player">
+            <summary>
+            Create class for player object
+            </summary>
+        </member>
+        <member name="F:Objects.Player.ballHeight">
+            <summary>
+            Get players height
+            </summary>
+        </member>
+        <member name="F:Objects.Player.ballWidth">
+            <summary>
+            Get Players width
+            </summary>
+        </member>
+        <member name="F:Objects.Player.displayArea">
+            <summary>
+            Get the display area of Player
+            </summary>
+        </member>
+        <member name="F:Objects.Player.gameplayArea">
+            <summary>
+            Get the Area to build the player inside of
+            </summary>
+        </member>
+        <member name="T:Objects.Player.Direction">
+            <summary>
+            Get directional input for movement
+            </summary>
+        </member>
+        <member name="M:Objects.Player.#ctor(System.Drawing.Rectangle,System.Int32,System.Int32)">
+            <summary>
+            Initalize a Player Object
+            </summary>
+            <param name="gameplayArea"></param>
+            <param name="x"></param>
+            <param name="y"></param>
+        </member>
+        <member name="M:Objects.Player.Move(Objects.Player.Direction)">
+            <summary>
+            Move player object in input direction
+            </summary>
+            <param name="direction"></param>
+        </member>
+        <member name="M:Objects.Player.Draw(System.Drawing.Graphics)">
+            <summary>
+            Draw a player object
+            </summary>
+            <param name="graphics"></param>
+        </member>
+        <member name="P:Objects.Player.Rectangle">
+            <summary>
+            Get display area of player
+            </summary>
+        </member>
+        <member name="P:Objects.Player.XPosition">
+            <summary>
+            get X position of player
+            </summary>
+        </member>
+        <member name="P:Objects.Player.YPosition">
+            <summary>
+            get Y position of player
+            </summary>
+        </member>
+        <member name="P:Objects.Player.Width">
+            <summary>
+            get width of player
+            </summary>
+        </member>
+        <member name="P:Objects.Player.Height">
+            <summary>
+            Get Height of player
+            </summary>
+        </member>
+        <member name="T:Objects.TargetObject">
+            <summary>
+            Create class for a TargetObject
+            </summary>
+        </member>
+        <member name="F:Objects.TargetObject.ballHeight">
+            <summary>
+            Get target height
+            </summary>
+        </member>
+        <member name="F:Objects.TargetObject.ballWidth">
+            <summary>
+            get target width
+            </summary>
+        </member>
+        <member name="F:Objects.TargetObject.displayArea">
+            <summary>
+            get target position
+            </summary>
+        </member>
+        <member name="F:Objects.TargetObject.gameplayArea">
+            <summary>
+            get area to build inside 
+            </summary>
+        </member>
+        <member name="T:Objects.TargetObject.Direction">
+            <summary>
+            directional input for target to move
+            </summary>
+        </member>
+        <member name="M:Objects.TargetObject.#ctor(System.Drawing.Rectangle,System.Int32,System.Int32)">
+            <summary>
+            create target object
+            </summary>
+            <param name="gameplayArea"></param>
+            <param name="x"></param>
+            <param name="y"></param>
+        </member>
+        <member name="M:Objects.TargetObject.Draw(System.Drawing.Graphics)">
+            <summary>
+            Draw TargetObject
+            </summary>
+            <param name="graphics"></param>
+        </member>
+        <member name="P:Objects.TargetObject.Rectangle">
+            <summary>
+            Get displaye area for object
+            </summary>
+        </member>
+        <member name="P:Objects.TargetObject.XPosition">
+            <summary>
+            Get X position for cooridinates 
+            </summary>
+        </member>
+        <member name="P:Objects.TargetObject.YPosition">
+            <summary>
+            get Y position for cooridinates 
+            </summary>
+        </member>
+    </members>
+</doc>

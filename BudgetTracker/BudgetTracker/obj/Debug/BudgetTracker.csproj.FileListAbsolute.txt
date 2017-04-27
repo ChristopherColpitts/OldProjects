@@ -1,0 +1,15 @@
+C:\Users\NSCCSTUDENT\Desktop\PROG2500\Assignments\BudgetTracker\BudgetTracker\bin\Debug\BudgetTracker.exe.config
+C:\Users\NSCCSTUDENT\Desktop\PROG2500\Assignments\BudgetTracker\BudgetTracker\bin\Debug\BudgetTracker.exe
+C:\Users\NSCCSTUDENT\Desktop\PROG2500\Assignments\BudgetTracker\BudgetTracker\bin\Debug\BudgetTracker.pdb
+C:\Users\NSCCSTUDENT\Desktop\PROG2500\Assignments\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.csprojResolveAssemblyReference.cache
+C:\Users\NSCCSTUDENT\Desktop\PROG2500\Assignments\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.BudgetTracker.resources
+C:\Users\NSCCSTUDENT\Desktop\PROG2500\Assignments\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.Properties.Resources.resources
+C:\Users\NSCCSTUDENT\Desktop\PROG2500\Assignments\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.Register.resources
+C:\Users\NSCCSTUDENT\Desktop\PROG2500\Assignments\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.Welcome.resources
+C:\Users\NSCCSTUDENT\Desktop\PROG2500\Assignments\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.csproj.GenerateResource.Cache
+C:\Users\NSCCSTUDENT\Desktop\PROG2500\Assignments\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.exe
+C:\Users\NSCCSTUDENT\Desktop\PROG2500\Assignments\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.pdb
+C:\Users\NSCCSTUDENT\Desktop\PROG2500\Assignments\BudgetTracker\BudgetTracker\bin\Debug\Budget.dll
+C:\Users\NSCCSTUDENT\Desktop\PROG2500\Assignments\BudgetTracker\BudgetTracker\bin\Debug\Budget.pdb
+C:\Users\NSCCSTUDENT\Desktop\PROG2500\Assignments\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.CreateBudget.resources
+C:\Users\NSCCSTUDENT\Desktop\PROG2500\Assignments\BudgetTracker\BudgetTracker\obj\Debug\BudgetTracker.UpdateBudget.resources

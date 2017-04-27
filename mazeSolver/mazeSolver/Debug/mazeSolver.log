@@ -1,0 +1,7 @@
+﻿  Maze.cpp
+c:\users\nsccstudent\desktop\prog2400\assignments\mazesolver\mazesolver\maze.cpp(46): warning C4305: '=': truncation from 'int' to 'char'
+c:\users\nsccstudent\desktop\prog2400\assignments\mazesolver\mazesolver\maze.cpp(46): warning C4309: '=': truncation of constant value
+  Driver.cpp
+  Generating Code...
+  mazeSolver.vcxproj -> C:\Users\NSCCSTUDENT\Desktop\PROG2400\Assignments\mazeSolver\Debug\mazeSolver.exe
+  mazeSolver.vcxproj -> C:\Users\NSCCSTUDENT\Desktop\PROG2400\Assignments\mazeSolver\Debug\mazeSolver.pdb (Partial PDB)
